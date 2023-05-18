@@ -1,27 +1,27 @@
-# TÍTULO DO PROJETO
+# Inclusão Para Todos
 
-`CURSO`
+Análise e Desenvolvimento De Sistemas 
 
-`DISCIPLINA`
+Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto deenvolvido visando a inclusão de pessoas com deficiência, no ensino superior. Onde, iremos ter um site que permite a utilização de aplicativos de acessibilidade, como o 'Hand Talk'. Assim, permitindo a facilitaçõ da navegação por pessoas com limitações e/ou deficiências.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Gustavo Vinícius De Souza Oliveira
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Clóvis
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, apresentará o site onde às pessoas realizarão a navegação.
 
 # Documentação
 
@@ -41,11 +41,11 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
-
+ 
+(https://educacao-com-inclusao--souzaolivergu.repl.co)
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+
 
 # Armazenamento da Apresentação
 
